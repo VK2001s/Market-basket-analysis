@@ -1,0 +1,8 @@
+numpy 
+pandas 
+matplotlib
+seaborn
+from mlxtend.frequent_patterns  
+apriori
+from mlxtend.frequent_patterns 
+association_rules
